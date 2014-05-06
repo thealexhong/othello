@@ -1,0 +1,5 @@
+Play Othello (aka Reversi).
+
+Program sets up framework for a simple game of Othello. AI is programmed to
+follow a fairly simple heuristic. Alpha-beta pruning is used for minimax
+search of the two-player game.
