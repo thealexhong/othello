@@ -10,10 +10,10 @@
 % Inital state of the board 
 initBoard([ [.,.,.,.,.,.], 
             [.,.,.,.,.,.],
-	          [.,.,1,2,.,.], 
-	          [.,.,2,1,.,.], 
+            [.,.,1,2,.,.], 
+            [.,.,2,1,.,.], 
             [.,.,.,.,.,.], 
-	          [.,.,.,.,.,.] ]).
+            [.,.,.,.,.,.] ]).
 
 % Initialize predefined state from above, initial player is human
 % initialize/2 : initialize(InitialState, InitialPlayer)
