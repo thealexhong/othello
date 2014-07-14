@@ -6,7 +6,7 @@ search of the two-player game.
 
 
 
-## Heuristic Description
+## Heuristic
 The heuristic takes into account both trying to obtain the corner positions
 and limiting the mobility of the opponent. It also factors in trying to obtain
 higher number of pieces on the board (this does not mean the highest possible).
