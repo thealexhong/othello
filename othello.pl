@@ -1,3 +1,4 @@
+% (c) Alex Hong 2014
 :- ensure_loaded('abplay.pl').
 
 % State Representation: 
